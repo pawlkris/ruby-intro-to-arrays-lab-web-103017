@@ -3,8 +3,7 @@ def instantiate_new_array
 end
 
 def array_with_two_elements
-  array = ["thing1","thing2"]
-  return array
+  return ["thing1","thing2"]
 end
 
 def first_element(array)
